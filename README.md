@@ -35,7 +35,7 @@ Sewa solusi akses kontrol terbaik dengan "Gatewatch" dan dapatkan keamanan yang 
 
 ## Penawaran Produk :
 
-### 1. Versi Standar :
+### 1. Versi Standart :
 - Cocok untuk satu kantor dengan 5 Multicontroller/Pintu.
 - Maksimal 5 alat dengan durasi 1 tahun.
 - Tambahan alat akan dikenakan biaya per alat dalam mode Cloud.
