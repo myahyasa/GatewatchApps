@@ -20,23 +20,41 @@ AC-10723 adalah sebuah solusi akses kontrol pintu terpusat yang berbasis Interne
 
 4. Monitoring Real-time: AC-10723 memungkinkan administrator untuk memantau aktivitas akses pintu secara real-time. Dengan notifikasi langsung, mereka dapat mengetahui siapa yang membuka atau menutup pintu, serta waktu dan tanggal akses. Hal ini membantu dalam melakukan pemantauan keamanan yang efektif dan mengidentifikasi pola atau kejadian yang mencurigakan.
 
-5. Integrasi IoT dan Skalabilitas: AC-10723 dapat terintegrasi dengan perangkat lain yang kompatibel dengan IoT, seperti ip kamera keamanan, sensor gerak, atau sistem peringatan. Ini memberikan tingkat keamanan yang lebih tinggi dan fleksibilitas dalam memperluas sistem keamanan Anda sesuai dengan kebutuhan.
+5. Integrasi IoT dan Skalabilitas: AC-10723 dapat terintegrasi dengan perangkat lain yang kompatibel dengan IoT, seperti IP kamera keamanan. Fitur Capture IP Camera memungkinkan pengguna untuk mengintegrasikan kamera keamanan IP dengan sistem Gatewatch. Pengguna dapat melihat gambar langsung dari kamera keamanan dan merekam aktivitas di sekitar pintu secara real-time. Hal ini memberikan tingkat keamanan yang lebih tinggi dan memungkinkan pemantauan yang lebih rinci dan akurat.
 
 Dengan AC-10723, Anda dapat memiliki kendali penuh atas akses pintu secara terpusat, meningkatkan keamanan dan efisiensi di lingkungan Anda. Hubungi kami sekarang untuk mendapatkan solusi akses kontrol pintu yang cerdas dan terhubung!
 
-![Topologi Produk AC-10723](https://drive.google.com/file/d/1ExI7psgz2Nj-qR1_E3FfNFbmZnWPTdiK/view?usp=sharing)
+**Topology GateWatch App & AC-10723**
+![Topologi Produk AC-10723](https://github.com/myahyasa/GatewatchApps/blob/cb03c002348983a52c64089e8118027b726cbb53/acc-002.png)
 
 ## Solusi Akses Kontrol Terbaik dalam Sewa Bulanan
 
 Sewa solusi akses kontrol terbaik dengan "Gatewatch" dan dapatkan keamanan yang andal, fleksibilitas, dan kontrol penuh atas akses pintu di bisnis Anda. Dengan biaya sewa bulanan yang terjangkau, kami menyediakan solusi akses kontrol terdepan yang memberdayakan bisnis Anda tanpa harus mengeluarkan biaya besar secara upfront. Dapatkan keunggulan kompetitif dan tingkatkan keamanan dengan "Gatewatch" sekarang!
 
-## Pengembangan : Versi Pro akan di rilis dalam waktu dekat.
+## Pengembangan : Versi Pro & Enterprise akan di rilis dalam waktu dekat.
 
-Fitur Utama :
-- Akses Kontrol Terpusat: Mengontrol akses pintu dari satu lokasi sentral, memungkinkan pengelolaan dan pemantauan yang efisien.
-- Integrasi IoT yang Kuat: Terhubung dengan perangkat IoT lainnya seperti ip kamera keamanan, sensor gerak, dan sistem peringatan.
-- Pendaftaran Pengguna Terpusat: Mudah mendaftarkan pengguna baru, mengatur izin akses, dan mengelola perubahan dengan cepat.
-- Kendali Jarak Jauh: Mengontrol dan mengawasi akses pintu melalui aplikasi panel administrasi web, memberikan fleksibilitas tanpa batas.
-- Dukungan Pelanggan 24/7: Tim dukungan kami siap membantu Anda kapan pun Anda membutuhkannya, memberikan layanan yang andal dan responsif.
+## Penawaran Produk :
 
-Sewa "Gatewatch" sekarang dan tingkatkan keamanan bisnis Anda dengan solusi akses kontrol yang canggih. Hubungi kami di 081398696144 atau kunjungi situs web kami di [alamat situs web] untuk informasi lebih lanjut. Jangan lewatkan kesempatan ini untuk memperoleh keamanan dan kendali penuh atas akses pintu Anda!
+### 1. Versi Standar :
+- Cocok untuk satu kantor dengan 5 Multicontroller/Pintu.
+- Maksimal 5 alat dengan durasi 1 tahun.
+- Tambahan alat akan dikenakan biaya per alat dalam mode Cloud.
+
+### 2. Versi Pro :
+- Cocok untuk kantor percabangan dengan Multicontroller/Pintu.
+- Maksimal 50 alat dengan durasi 1 tahun.
+- Tambahan alat akan dikenakan biaya per alat.
+- Dapat menggunakan mode Cloud atau On-Premises Server.
+***Project Development Stage***
+
+### 3. Versi Enterprise :
+- Cocok untuk kantor percabangan dengan Multicontroller/Pintu.
+- Tidak ada batasan jumlah alat.
+- Dapat menggunakan mode Cloud atau On-Premises Server.
+- Lisensi berlaku seumur hidup.
+***Project Development Stage***
+  
+Sewa "Gatewatch" sekarang dan tingkatkan keamanan bisnis Anda dengan solusi akses kontrol yang canggih. Hubungi kami di 081398696144 atau tanyakan pada email kami myahyasa@gmail.com untuk informasi lebih lanjut. Jangan lewatkan kesempatan ini untuk memperoleh keamanan dan kendali penuh atas akses pintu Anda!
+
+
+# *Connect. Control. Secure. Unleash the Power of IoT!*
